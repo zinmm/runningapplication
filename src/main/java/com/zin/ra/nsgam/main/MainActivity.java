@@ -36,7 +36,6 @@ public class MainActivity extends Activity {
                                 @SuppressLint("NewApi")
                                 @Override
                                 public void run() {
-                                    Toast.makeText(MainActivity.this, tmpString, Toast.LENGTH_LONG).show();
                                 }
                             });
                         }
